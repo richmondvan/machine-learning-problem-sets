@@ -1,4 +1,4 @@
-# My Problem Sets from Andrew Ng's Machine Learning Course
+# My problem sets from Andrew Ng's Machine Learning course
 
 The original Machine Learning course can be found on Coursera here:
 https://www.coursera.org/learn/machine-learning
